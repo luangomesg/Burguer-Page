@@ -55,7 +55,7 @@ export const Input = styled.input`
     outline: none;
 
     &::placeholder{
-        color: #fffffff9;
+        color: #A9A9A9
     }
 `
 
