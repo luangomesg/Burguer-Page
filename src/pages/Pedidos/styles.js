@@ -70,6 +70,7 @@ export const ContainerTree = styled.div`
         color: #fffffff9;
         font-size: 13px;
         word-wrap: break-word;
+        text-transform: capitalize;
         
     }
 

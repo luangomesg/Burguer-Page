@@ -53,6 +53,7 @@ export const Input = styled.input`
     color: #fff;
     border: none;
     outline: none;
+    text-transform: capitalize;
 
     &::placeholder{
         color: #A9A9A9
